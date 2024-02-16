@@ -1,0 +1,37 @@
+h1{
+    font-weight: bold;
+    font-size: 70px;
+}
+.dgdfgfgfg {
+    font-size: 20px;
+}
+h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+h4 {
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+.aearfdfhfh > img {
+width: 420px;
+}
+.card > img{
+width: 70px;
+}
+.card {
+    border-bottom: 5px solid rgb(0, 128, 6);
+    transition: 1s;
+    margin: 60px;
+}
+.card:hover {
+    background-color: rgb(241, 250, 239);
+    transform: scale(1.1)
+}
+.gdfgufydfgd {
+    font-size: 20px;
+}
+.dbdgdgdgds {
+    font-size: 20px;
+}
